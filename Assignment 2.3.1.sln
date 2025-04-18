@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASSignment 2.3.1", "ASSignment 2.3.1.csproj", "{23133BB9-C2B2-41B0-9BB4-B634A244F8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23133BB9-C2B2-41B0-9BB4-B634A244F8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23133BB9-C2B2-41B0-9BB4-B634A244F8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23133BB9-C2B2-41B0-9BB4-B634A244F8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23133BB9-C2B2-41B0-9BB4-B634A244F8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5965BCBD-E1E0-4834-B1D3-41B55C5DD5C1}
+	EndGlobalSection
+EndGlobal
